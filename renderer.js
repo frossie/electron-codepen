@@ -1,1 +1,1 @@
-document.write("Hey")
+document.write("Hip to be SQuaRE")
